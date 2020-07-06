@@ -1,5 +1,7 @@
 # ubuntu_env_script
 
-# to excute this file please run inside the file directory after download
+# before excute
+sudo chmod +x `path to env file`
 
-sudo chmod +x env.sh
+# to excute
+./env.sh
