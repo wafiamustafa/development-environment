@@ -20,7 +20,7 @@ sudo apt-get install code # or code-insiders
 
 # Install sublime
 sudo apt update
-sudo apt install apt-transport-https ca-certificates curl software-properties-common
+sudo apt install apt-transport-https ca-certificates software-properties-common
 curl -fsSL https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
 sudo add-apt-repository "deb https://download.sublimetext.com/ apt/stable/"
 sudo apt update
