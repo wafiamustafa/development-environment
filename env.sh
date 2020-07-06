@@ -84,7 +84,7 @@ npm install -g less
 npm install -g nodemon
 npm install -g grunt-cli
 
-# Install timedocker
+# Install timedoctor
 wget https://s3.amazonaws.com/sfproc-downloads/3.0.83/linux/ubuntu-18.04/interactive/timedoctor2-setup-3.0.83-linux-x86_64.run
 sudo apt-get install libappindicator1
 sudo chmod +x timedoctor2-setup-3.0.83-linux-x86_64.run
