@@ -1,4 +1,4 @@
-# ubuntu_env_script
+# ubuntu env script
 This is a shell script to install required environment apps on Ubuntu OS <br>
 
 1- Install wget curl snap <br>
