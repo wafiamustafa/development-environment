@@ -69,7 +69,7 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.26.1/docker-
 sudo chmod +x /usr/local/bin/docker-compose
 
 # Install autoenv
-git clone git://github.com/kennethreitz/autoenv.git ~/.autoenv
+git clone https://github.com/hyperupcall/autoenv.git ~/.autoenv
 echo 'source ~/.autoenv/activate.sh' >> ~/.bashrc
 source ~/.bashrc
 
